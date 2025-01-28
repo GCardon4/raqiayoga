@@ -1,0 +1,34 @@
+:root{
+    --primary: #212627;
+    --title: #7e868a;
+    --secondary: #e2eaec;
+    --ternary: #f1f3f5;
+    --back: url("../../../images/widgets/default/agendas/atras.svg");
+    --calendar: url("../../../images/widgets/default/datetime/calendar_widget.svg");
+    --uncheck: url("../../../images/widgets/default/agendas/check_02.png") 0px 0px no-repeat;
+    --check: url("../../../images/widgets/default/agendas/check_02.png") 0px -16px no-repeat;
+    --input: #f5f6f7;
+    --hover: #4799A4;
+    --notification: #d9fff8;
+    --warning: #ffe5d4;
+    --warningText: #bf5814;
+    --errorBack: #F4DBD0;
+    --errorFont: #B4571A;
+    --head: #7C8589;
+    --okBack:#DAE8E8;
+    --okFont:#63ACB6;
+    --heightInput:32px;
+}
+
+body{
+    
+}
+.clase-titulo{
+    background-color: #dc9057;
+    color: #FFFFFF;
+    padding: 5px 5px;
+    text-align: center;
+}
+.clase-titulo h3{
+    color: #FFFFFF;
+}
