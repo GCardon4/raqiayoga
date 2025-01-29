@@ -342,6 +342,10 @@ label {
     align-items: center;
 }
 
+.flag-icon img{
+    width: 35px;
+}
+
 /* button style */
 
 .btn {
