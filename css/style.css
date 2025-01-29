@@ -332,9 +332,11 @@ label {
 }
 
 .experience-mes span{
-    font-size: 45px;
+    font-size: 43px;
     margin-bottom: 40px;
 }
+
+
 
 .experience-mes img{
     width: 80%;
@@ -345,6 +347,14 @@ label {
 .flag-icon img{
     width: 35px;
 }
+
+@media (max-width: 767px) {
+    
+    .experience-mes span{
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+  }
 
 /* button style */
 
