@@ -343,6 +343,10 @@ label {
     align-items: center;
 }
 
+.horario-section img{
+    width: 80%;
+}
+
 .flag-icon img{
     width: 35px;
 }
