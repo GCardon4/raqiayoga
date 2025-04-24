@@ -351,6 +351,29 @@ label {
     width: 35px;
 }
 
+
+/*--- Tabla Horarios ----*/
+#horario-raqia{
+
+}
+table{
+    margin: 5px;
+}
+
+.horario-clases tr{
+    margin: 15px;
+}
+
+.table .bg-clase-01{
+    background-color: #edd5c6;
+}
+
+.table .bg-clase-02{
+    background-color: #d7eafa;
+}
+
+
+
 @media (max-width: 767px) {
     
     .experience-mes span{
